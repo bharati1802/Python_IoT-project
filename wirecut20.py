@@ -5,12 +5,12 @@ import urequests
 
 
 # -------- WiFi Settings ----------
-SSID = "iPhone"
-PASSWORD = "18Bh@#ratii"
+SSID = "*********"
+PASSWORD = "*********"
 
 
 # -------- ThingSpeak ----------
-API_KEY = "OZTBWQYC1WZQAE0D"
+API_KEY = "**********"
 THINGSPEAK_URL = "http://api.thingspeak.com/update"
 THINGSPEAK_INTERVAL = 15   # seconds
 
