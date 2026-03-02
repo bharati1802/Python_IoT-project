@@ -4,11 +4,11 @@ import network
 import urequests
 
 # -------- WiFi Settings ----------
-SSID = "iPhone"       
-PASSWORD = "18Bh@#ratii"   
+SSID = "*******"       
+PASSWORD = "*******"   
 
 # -------- ThingSpeak ----------
-API_KEY = "4F4CNT1KY49A2U97"
+API_KEY = "*********"
 THINGSPEAK_URL = "http://api.thingspeak.com/update"
 
 # -------- Pole Mapping ----------
