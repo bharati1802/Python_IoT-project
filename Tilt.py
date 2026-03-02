@@ -5,7 +5,7 @@ import urequests  # HTTP client
 # -------------------------------
 # CONFIG / API
 # -------------------------------
-API_KEY = "QSVGXMUNYZB99J0L"   # Your Thingspeak Write API Key
+API_KEY = "**************"   # Your Thingspeak Write API Key
 
 # -------------------------------
 # I2C setup (ESP32 ↔ MPU6050)
